@@ -1,0 +1,5 @@
+[Epoch 0/1] [Batch 0/4] [Mean losses over 10 frames for 1 batches] [C loss: 38.52921714782715, S loss: 68.12070426940917, T loss: 0.33431591391563414, total loss: 421.70122985839845]
+[Epoch 0/1] [Batch 1/4] [Mean losses over 10 frames for 1 batches] [C loss: 36.290658187866214, S loss: 58.186143493652345, T loss: 0.38089063465595246, total loss: 457.2221092224121]
+[Epoch 0/1] [Batch 2/4] [Mean losses over 10 frames for 1 batches] [C loss: 41.05159683227539, S loss: 82.79487762451171, T loss: 0.30612413585186005, total loss: 409.44481506347654]
+[Epoch 0/1] [Batch 3/4] [Mean losses over 10 frames for 1 batches] [C loss: 41.46606979370117, S loss: 76.85239601135254, T loss: 0.4652957409620285, total loss: 562.8811683654785]
+[Epoch 0/1] [Batch 3/4] [Mean validation losses for the model] [C loss: 20.475416946411134, S loss: 83.08664474487304, T loss: 256.7687392234802, total loss: 360.33080139160154]
