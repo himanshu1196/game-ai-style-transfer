@@ -3,3 +3,8 @@
 [Epoch 0/1] [Batch 2/4] [Mean losses over 10 frames for 1 batches] [C loss: 41.05159683227539, S loss: 82.79487762451171, T loss: 0.30612413585186005, total loss: 409.44481506347654]
 [Epoch 0/1] [Batch 3/4] [Mean losses over 10 frames for 1 batches] [C loss: 41.46606979370117, S loss: 76.85239601135254, T loss: 0.4652957409620285, total loss: 562.8811683654785]
 [Epoch 0/1] [Batch 3/4] [Mean validation losses for the model] [C loss: 20.475416946411134, S loss: 83.08664474487304, T loss: 256.7687392234802, total loss: 360.33080139160154]
+[Epoch 0/1] [Batch 0/4] [Mean losses over 10 frames for 1 batches] [C loss: 37.844978713989256, S loss: 70.81745185852051, T loss: 0.3572743386030197, total loss: 447.01427307128904]
+[Epoch 0/1] [Batch 1/4] [Mean losses over 10 frames for 1 batches] [C loss: 40.98335571289063, S loss: 56.409672546386716, T loss: 0.35068380236625674, total loss: 427.5851455688477]
+[Epoch 0/1] [Batch 2/4] [Mean losses over 10 frames for 1 batches] [C loss: 36.10151252746582, S loss: 126.14208602905273, T loss: 0.3621931463479996, total loss: 506.38598480224607]
+[Epoch 0/1] [Batch 3/4] [Mean losses over 10 frames for 1 batches] [C loss: 44.52522277832031, S loss: 68.23916130065918, T loss: 0.3968200653791428, total loss: 487.32184371948244]
+[Epoch 0/1] [Batch 3/4] [Mean validation losses for the model] [C loss: 21.88098258972168, S loss: 84.83638305664063, T loss: 467.5608456134796, total loss: 574.2782119750976]
